@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GfrWmiU812HRgolqbrtFbUmMDyVkuEv23EqydXZnYkztrcq6ifaNOtDxk0NZiPxJGPDkwKUKZVbU8Em7fFU83w==",
+  "dgSpecHash": "vPyHYtd6tSgjVE9lYaCPAiz3vmFoNf9hFlEb3AFPMBezU+xMk+mJTQy/x/w+xgJ/43Gtk9VlgHr7MRKYNBxhWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp\\TestApp.csproj",
+  "projectFilePath": "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp\\TestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\romek\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
     "C:\\Users\\romek\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",

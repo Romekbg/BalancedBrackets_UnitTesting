@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\TestApp.Tests.csproj": {}
+    "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\TestApp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\TestApp.Tests.csproj": {
+    "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\TestApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\TestApp.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\TestApp.Tests.csproj",
         "projectName": "TestApp.Tests",
-        "projectPath": "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\TestApp.Tests.csproj",
+        "projectPath": "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\TestApp.Tests.csproj",
         "packagesPath": "C:\\Users\\romek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\obj\\",
+        "outputPath": "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\romek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp\\TestApp.csproj": {
-                "projectPath": "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp\\TestApp.csproj"
+              "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp\\TestApp.csproj": {
+                "projectPath": "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp\\TestApp.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp\\TestApp.csproj": {
+    "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp\\TestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp\\TestApp.csproj",
+        "projectUniqueName": "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp\\TestApp.csproj",
         "projectName": "TestApp",
-        "projectPath": "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp\\TestApp.csproj",
+        "projectPath": "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp\\TestApp.csproj",
         "packagesPath": "C:\\Users\\romek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp\\obj\\",
+        "outputPath": "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\romek\\AppData\\Roaming\\NuGet\\NuGet.Config",

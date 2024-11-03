@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pg4O0IYDs8OAiBBAa8oVqKg4n1l3xNQ5qn+IPqmEynvBAQM9S/3hKM02MfGj7/oWV4SHpBkmiDlQ0fKq5ViAcA==",
+  "dgSpecHash": "hAUuRCKcs4PToEuV94cmCR6a0GAv74VGgTHnDJGODwYi3pVzeNwnwM1oIWGMyRWOgEZ7dQ0b3r6WQlf4+QzuLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\TestApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\TestApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\romek\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\romek\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

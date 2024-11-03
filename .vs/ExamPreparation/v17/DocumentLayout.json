@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\",
+  "WorkspaceRootPath": "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97738044-3501-4162-BE00-4C012BA71AF3}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\romek\\onedrive\\desktop\\programming fundamentals and unit testing for qa\\04. unit testing_ balanced brackets_resources\\resources\\testapp.tests\\balancedbracketstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97738044-3501-4162-BE00-4C012BA71AF3}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\romek\\onedrive\\desktop\\04. unit testing_ balanced brackets_resources\\resources\\testapp.tests\\balancedbracketstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97738044-3501-4162-BE00-4C012BA71AF3}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\balancedbracketstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -28,9 +28,9 @@
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\romek\\source\\repos\\02. Average Last Elements\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\02. Average Last Elements\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\02. Average Last Elements\\Program.cs",
               "ToolTip": "C:\\Users\\romek\\source\\repos\\02. Average Last Elements\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\02. Average Last Elements\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\02. Average Last Elements\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-11-06T21:10:23.535Z"
@@ -39,9 +39,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BalancedBracketsTests.cs",
-              "DocumentMoniker": "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\BalancedBracketsTests.cs",
+              "DocumentMoniker": "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\BalancedBracketsTests.cs",
               "RelativeDocumentMoniker": "TestApp.Tests\\BalancedBracketsTests.cs",
-              "ToolTip": "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\BalancedBracketsTests.cs",
+              "ToolTip": "C:\\Users\\romek\\OneDrive\\Desktop\\04. Unit Testing_ Balanced Brackets_Resources\\Resources\\TestApp.Tests\\BalancedBracketsTests.cs",
               "RelativeToolTip": "TestApp.Tests\\BalancedBracketsTests.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
